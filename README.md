@@ -5,7 +5,7 @@
 <hr size="2" width="100%" align="center" noshade>
 
   <p align="center">
-   <img src="src/assets/igniteteams.gif" width="800">
+   <img src="src/assets/igniteteams.gif" width="400">
   </p>
 
 <h2>🚀 Descrição</h2>
