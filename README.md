@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigomotamendes/igniteteams/master/src/assets/logo%403x.png?token=GHSAT0AAAAAABYX2PYL6A4PZRZWIZDKWYCKY2X7NKA" width="100">
+  <img src="https://github.com/rodrigomotamendes/igniteteams/blob/master/src/assets/logo%403x.png" width="100">
 </p>
 
 <hr size="2" width="100%" align="center" noshade>
